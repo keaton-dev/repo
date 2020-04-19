@@ -1,0 +1,16 @@
+Package: com.keaton.spotifly
+Version: 0.0.1-beta5
+Architecture: iphoneos-arm
+Maintainer: keaton <4xdCNz3B9JN3HuX@protonmail.com>
+Installed-Size: 348
+Depends: mobilesubstrate
+Filename: debs/com.keaton.spotifly.deb
+Size: 17356
+MD5sum: 69c81c94adb3225e89dfbcb711b29cf1
+SHA1: 87aa11eba899ec33e7992142629bd7de85c49398
+SHA256: b6d68b76903317e567bd65106960ad54e3761fe80abbb207b60ee9623eb61b55
+Section: Tweaks
+Description: Make your Spotify fly!(Not literally)
+Author: keaton <4xdCNz3B9JN3HuX@protonmail.com>
+Name: SpotiFly
+
