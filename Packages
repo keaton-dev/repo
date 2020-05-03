@@ -14,6 +14,22 @@ Description: Minimalist lockscreen music player.
 Author: keaton <4xdCNz3B9JN3HuX@protonmail.com>
 Name: Nereid13
 
+Package: com.keaton.octopusbypass
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: keaton
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: debs/com.keaton.octopusbypass.deb
+Size: 2744
+MD5sum: 62e37df623874e44df80697ec17d950e
+SHA1: e3c9414c138ef0bc657ec9f322080a84dda6fe04
+SHA256: d93d2d44e6aa704b27e81dbad82b2b59dc742a75f530e1335bd043a113aa41e1
+Section: Tweaks
+Description: Octopus Oepay Jailbreak Bypass
+Author: keaton
+Name: OctopusBypass
+
 Package: com.keaton.spotifly
 Version: 0.0.1-beta5
 Architecture: iphoneos-arm
