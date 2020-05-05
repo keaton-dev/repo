@@ -30,6 +30,22 @@ Description: Octopus Oepay Jailbreak Bypass
 Author: keaton
 Name: OctopusBypass
 
+Package: com.keaton.rereminders
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: keaton
+Installed-Size: 136
+Depends: mobilesubstrate, firmware(>= 13.0)
+Filename: debs/com.keaton.rereminders.deb
+Size: 2920
+MD5sum: e4616537cfa7969a13b45c066e66b1f5
+SHA1: c3ba916ecd8b3d9157982507c74fc4507e1638ce
+SHA256: 9b0acfe7c71df4997b11db001bdb38272414cda4223e79ae715b8035f8a81926
+Section: Tweaks
+Description: Enables iCloud only features for the Reminders app.
+Author: keaton
+Name: ReReminders
+
 Package: com.keaton.spotifly
 Version: 0.0.1-beta5
 Architecture: iphoneos-arm
