@@ -1,14 +1,14 @@
 Package: com.keaton.nereid13
-Version: 0.0.1-beta1
+Version: 0.0.1-beta2
 Architecture: iphoneos-arm
 Maintainer: keaton <4xdCNz3B9JN3HuX@protonmail.com>
-Installed-Size: 136
-Depends: mobilesubstrate, firmware(>= 13.0)
+Installed-Size: 312
+Depends: mobilesubstrate, firmware(>= 13.0), ws.hbang.alderis
 Filename: debs/com.keaton.nereid13.deb
-Size: 10536
-MD5sum: 3e8430731a6f9c58504e7544dfc40dbe
-SHA1: 84d71a886a1068d49fffd5253575429ec16e0cd0
-SHA256: 04b7c4a5b345db29ce8577f06090965ec86ef7c0e46196dc4532e208ad69c472
+Size: 33762
+MD5sum: 7ac4dbef0ec6c96b27eac25a8c021137
+SHA1: 9f08658ce8231d04e430f72d8603595fb60c8846
+SHA256: 6266ca98a595d4264bbdcb523dc80f33e7f648d984d9d6a30b49131b89cdca85
 Section: Tweaks
 Description: Minimalist lockscreen music player.
 Author: keaton <4xdCNz3B9JN3HuX@protonmail.com>
