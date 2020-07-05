@@ -62,3 +62,19 @@ Description: Make your Spotify fly!(Not literally)
 Author: keaton <4xdCNz3B9JN3HuX@protonmail.com>
 Name: SpotiFly
 
+Package: com.keaton.yourlibraryx
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: keaton
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.keaton.yourlibraryx.deb
+Size: 2728
+MD5sum: b0af4a985df92523bae917a2ee4bbf7c
+SHA1: 06c8d521151a7ee0537d25924d01bb21cc430ff5
+SHA256: 57d9725d632698316fdd8276d2e28d328b460720793ead75e9338b06e03d55e8
+Section: Tweaks
+Description: Enable the new Spotify "Your Library" UI.
+Author: keaton
+Name: YourLibraryX
+
